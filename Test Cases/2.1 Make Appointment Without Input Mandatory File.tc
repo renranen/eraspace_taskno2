@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2.1 Make Appointment Without Input Mandatory File</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3a43075a-fbd4-4cc1-9501-c2fbde952ced</testCaseGuid>
+</TestCaseEntity>
